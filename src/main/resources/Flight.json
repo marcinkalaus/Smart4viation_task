@@ -1,0 +1,37 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 2668,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2014-08-24T11:26:44-02:00"
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 7046,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2019-10-23T07:31:10-02:00"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 8196,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2019-06-18T04:40:21-02:00"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 3740,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2014-07-08T08:36:47-02:00"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 9664,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2018-02-04T06:31:35-01:00"
+  }
+]
